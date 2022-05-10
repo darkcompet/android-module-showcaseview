@@ -4,6 +4,8 @@ plugins {
 }
 
 android {
+	namespace 'tool.compet.showcaseview'
+
 	compileSdk 31
 
 	defaultConfig {
